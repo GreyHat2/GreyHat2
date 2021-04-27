@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello World 👋
 
 <!--
-**GreyHat2/GreyHat2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GreyHat2/GreyHat2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [instagram](https://www.instagram.com/ransom_wis/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like linux
--->
+
