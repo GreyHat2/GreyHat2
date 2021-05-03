@@ -5,7 +5,7 @@
 
 About me:
 
-- 🔭 I’m currently working on projectd
+- 🔭 I’m currently working on project
 - 🌱 I’m currently learning js
 - 👯 I’m looking to collaborate on anything python
 - 🤔 I’m looking for help with flask authentication
