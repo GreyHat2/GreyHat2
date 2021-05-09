@@ -5,11 +5,9 @@
 
 About me:
 
-- 🔭 I’m currently working on project
+- 🔭 I’m currently working on projects
 - 🌱 I’m currently learning js
-- 👯 I’m looking to collaborate on anything python
-- 🤔 I’m looking for help with flask authentication
-- 💬 Ask me about python
-- 📫 How to reach me: [instagram](https://www.instagram.com/ransom_wis/)
+- 👯 I’m looking to collaborate
+- 📫 How to reach me: null
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like linux
+- ⚡ Fun fact: I use linux
