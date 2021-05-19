@@ -5,8 +5,7 @@
 
 About me:
 
-- 🔭 I’m currently working on projects
-- 🌱 I’m currently learning js
+- 🔭 I’m currently busy with school
 - 👯 I’m looking to collaborate
 - 📫 How to reach me: null
 - 😄 Pronouns: He/Him
